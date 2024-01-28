@@ -191,8 +191,19 @@ Die Datenmodellierung ist zentral für die Performance und die Skalierbarkeit vo
 
 ### Kontaktinformationen
 
-...
+**Projektleitung**
+- Name: Johannes Braun
+- E-Mail: Johannes.braun007@gmx.at
+- Telefon: +43 681 10763253
 
 ### Impressum
 
-...
+**Unternehmensinformationen**
+- Firmenname: JB Productions®
+- Adresse: Leusbündtweg 19e, 6800 Feldkirch, Österreich
+
+**Rechtliche Hinweise**
+Alle Informationen und Inhalte in dieser Dokumentation sind urheberrechtlich geschützt und Eigentum von JB Productions®. Jegliche unautorisierte Vervielfältigung, Verbreitung oder Verwendung dieser Materialien ist strengstens untersagt. Die in der Dokumentation enthaltenen Informationen können ohne vorherige Ankündigung geändert werden.
+
+**Haftungsausschluss**
+Die Informationen in dieser Dokumentation werden ohne Gewährleistung jeglicher Art bereitgestellt. JB Productions® übernimmt keine Haftung für Fehler oder Auslassungen in diesem Dokument oder für Schäden, die aus der Nutzung der darin enthaltenen Informationen entstehen.
